@@ -2,8 +2,8 @@
 
 # development
 Werkzeug==0.12.2
-django-debug-toolbar==1.8
-django-extensions==1.9.6
+django-debug-toolbar==1.9.1
+django-extensions==1.9.7
 psycopg2==2.7.3.2
 
 # Sandbox
@@ -19,7 +19,7 @@ whitenoise==3.3.1
 
 # Linting
 flake8==3.5.0
-flake8-debugger==1.4.0
+flake8-debugger==3.0.0
 flake8-blind-except==0.1.1
 isort==4.2.15
 
@@ -27,7 +27,7 @@ isort==4.2.15
 pyprof2calltree==1.4.3
 ipdb==0.10.3
 ipython==5.5.0
-transifex-client==0.12.4
+transifex-client==0.12.5
 
 # Country data
 pycountry==17.9.23
